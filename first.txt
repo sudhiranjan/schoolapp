@@ -1,4 +1,0 @@
-# first test file
-
-# hello test 
-test for gitignore
